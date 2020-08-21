@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ryan Lee
 
-<!--
-**ryazlee/ryazlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!  I'm Ryan and I am a rising senior at UC Berkeley studying computer science.  I am currently a Software Engineering Intern at [Apple 🍎](https://www.apple.com/) working for the AppleCare Field Diagnostics and Tools team.
 
-Here are some ideas to get you started:
+I specialize in mobile development where I am most familiar with React, Typescript, and Objective-C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have have interned at the following companies in the past:
+- [Snap Inc 👻](https://www.snap.com/en-US/) (Summer 2020)
+- [Better Sports Corporation 🍒](https://better.gg/) (Summer 2019)
+- [Starbutter AI 💬](https://www.starbutter.com/) (Spring 2019)
+- [Omnivision Technologies 📷](https://www.ovt.com/) (Summer 2018)
+
+Feel free to checkout my [personal site](https://ryazlee.github.io/), [resume](https://ryazlee.github.io/files/ryan_lee_resume.pdf), [LinkedIn](https://www.linkedin.com/in/ryazlee/), or shoot me an [email](mailto:ryanjlee@berkeley.edu)!
