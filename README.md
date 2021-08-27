@@ -1,8 +1,8 @@
 ### Ryan Lee
 
-Hi!  I'm Ryan and I am a rising senior at UC Berkeley studying computer science.  I am an incoming Software Engineer at [Snap Inc 👻](https://www.snap.com/en-US/), working for the Search team.
+Hi!  I'm Ryan and I am Software Engineer at [Snap Inc 👻](https://www.snap.com/en-US/), working for the Search team as a mobile developer.
 
-I specialize in mobile development where I am most familiar with React, Typescript, and Objective-C
+I work primarily with React, Typescript, Objective-C, and Kotlin!
 
 I have have interned at the following companies in the past:
 - [Apple 🍎](https://apple.com/) (Fall 2020)
