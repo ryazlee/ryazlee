@@ -1,8 +1,6 @@
 ### Ryan Lee
 
-Hi!  I'm Ryan and I am Software Engineer at [Snap Inc 👻](https://www.snap.com/en-US/), working for the Search team as a mobile developer.
-
-I work primarily with React, Typescript, Objective-C, and Kotlin!
+Hi!  I'm Ryan and I am Software Engineer at [Snap Inc 👻](https://www.snap.com/en-US/), working for the Search team as a mobile developer.  I work primarily with React, Typescript, Objective-C, and Kotlin!
 
 I have have interned at the following companies in the past:
 - [Apple 🍎](https://apple.com/) (Fall 2020)
