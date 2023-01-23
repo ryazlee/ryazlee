@@ -1,6 +1,8 @@
 ### Ryan Lee
 
-Hi!  I'm Ryan, a Full Stack Software Engineer II at [Aurora 🚛](https://aurora.tech/)  working on the Workflow Tools team under the Simulation org.  I primarily build simulation workflow webapps using React and Typescript!
+Hi!  I'm Ryan, a Full Stack Software Engineer II at [Aurora 🚛](https://aurora.tech/)
+
+I work on the Workflow Tools team under the Simulation org where I primarily build simulation workflow webapps using React and Typescript!
 
 I have have worked at the following companies in the past:
 - Mobile SWE @ [Snap Inc 👻](https://www.snap.com/en-US/) (Core Growth Org, Search Team) 
