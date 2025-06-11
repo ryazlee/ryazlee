@@ -1,8 +1,8 @@
 ### Ryan Lee
 
-Hi!  I'm Ryan, a Full Stack Software Engineer II at [Aurora 🚛](https://aurora.tech/)
+Hi!  I'm Ryan, a Frontend Software Engineer at [Aurora 🚛](https://aurora.tech/)
 
-I work on the Visualization Apps team under the Tech Foundations org.  I primarily develop frontend webapps for simulation and workflow visualization.  
+I work on the Visualization Apps team under the Tech Foundations org.  I primarily develop frontend webapps for vehicle log and workflow visualization.  
 
 I have have worked at the following companies in the past:
 - Mobile SWE @ [Snap Inc 👻](https://www.snap.com/en-US/) (Core Growth Org, Search Team) 
